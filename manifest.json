@@ -1,0 +1,1 @@
+{"name": "Crochet Companion", "short_name": "Crochet", "start_url": "./", "display": "standalone", "background_color": "#f7efe3", "theme_color": "#f7efe3", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}, {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}]}
